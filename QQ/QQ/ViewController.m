@@ -20,9 +20,7 @@
     NSLog(@"aa");
     
     
-    NSLog(@"33");
-    NSLog(@"cc");
-    NSLog(@"22");
+    
     
 }
 
